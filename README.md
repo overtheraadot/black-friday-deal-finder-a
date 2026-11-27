@@ -1,5 +1,9 @@
 # DealScout — Black Friday 2026 deals, checked
 
+[![make.fun · black-friday-deal-finder-01](https://make.fun/badge/black-friday-deal-finder-01.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![rank](https://make.fun/badge/black-friday-deal-finder-01/overtheraadot/black-friday-deal-finder-a/rank.svg)](https://make.fun/bounty/black-friday-deal-finder-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![reward](https://make.fun/badge/black-friday-deal-finder-01/overtheraadot/black-friday-deal-finder-a/reward.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+
 A static deal-finder site for the [make.fun](https://make.fun) competition
 **black-friday-deal-finder-01** ("Build the best real Black Friday deal
 finder").
